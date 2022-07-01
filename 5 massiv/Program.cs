@@ -6,7 +6,7 @@ namespace _5_massiv
     {
         static void Main(string[] args)
         {
-            int[] userInputArray = new int[10];
+            int[] userInputArray = new int[30];
             int tempMaxNumberInARow = 1;
             int maxNumberInRow = 0;
             int numberMaxRow = int.MinValue;
